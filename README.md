@@ -7,7 +7,7 @@ ROS–Gazebo simulation for Pioneer 3-DX UGVs in leader–follower collaboration
 This repository includes a detailed setup guide for running the **Pioneer 3DX leader–follower simulation in ROS Noetic**.  
 You can:
 
-- [Read the PDF version here](docs/p3dx_setup_guide.pdf)  
+- [Read the PDF version here](doc/p3dx_setup_guide.pdf)  
 
 ### Quick Start (from the guide)
 1. Clone the Pioneer 3DX package:
