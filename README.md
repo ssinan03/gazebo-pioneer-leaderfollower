@@ -9,3 +9,6 @@ You can:
 
 - [Read the PDF version here](doc/Pioneer_3DX_Steps.pdf)  
 
+git add docs/images/pioneer_demo.png
+git commit -m "Image_1"
+git push origin main
