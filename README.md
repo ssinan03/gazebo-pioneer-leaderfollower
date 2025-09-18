@@ -9,18 +9,3 @@ You can:
 
 - [Read the PDF version here](doc/Pioneer_3DX_Steps.pdf)  
 
-### Quick Start (from the guide)
-1. Clone the Pioneer 3DX package:
-   ```bash
-   cd ~/catkin_ws/src
-   git clone https://github.com/NKU-MobFly-Robotics/p3dx.git
-
-2. Install dependencies:
-   sudo apt install ros-noetic-gazebo-ros ros-noetic-gazebo-ros-control \
-    ros-noetic-diff-drive-controller ros-noetic-joint-state-controller \
-    ros-noetic-robot-state-publisher python3-rosdep python3-catkin-tools
-3. Build your workspace:
-   cd ~/catkin_ws
-    catkin build
-    source devel/setup.bash
-   
