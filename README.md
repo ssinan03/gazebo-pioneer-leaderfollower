@@ -9,5 +9,5 @@ You can:
 
 - [Read the PDF version here](doc/Pioneer_3DX_Steps.pdf)  
 
-![Simulation Demo](doc/Image_1.png)
+- ![Simulation Demo](doc/Image_1)
 
